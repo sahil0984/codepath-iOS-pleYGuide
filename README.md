@@ -26,7 +26,7 @@ Filter page. Unfortunately, not all the filters are supported in the Yelp API. <
 Optional: Implement the restaurant detail page. <br> <br>
 
 
-Walkthrough of What2Watch: <br> <br>
+Walkthrough of pleYGuide: <br> <br>
 ![Video Walkthrough](pleYGuide.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
